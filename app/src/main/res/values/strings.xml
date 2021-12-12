@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spark</string>
+    <string name="registr">Регистрация</string>
+    <string name="hint_fio">ФИО</string>
+    <string name="hint_email">Почта</string>
+    <string name="hint_passport">Паспортные данные</string>
+    <string name="hint_inn">ИНН</string>
+    <string name="hint_pass">Пароль</string>
+    <string name="hint_pass_2">Повторить пароль</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="acc_exists">У меня есть аккаунт</string>
+    <string name="find">Поиск здания</string>
+    <string name="text">Наш алгоритм подобрал несколько зданий для вашей кофейни, мы основывались на плотности населений, количестве конкурентов, и средней цены за аренду помещения.</string>
+    <string name="png">png</string>
+    <string name="zdanie">Выбрать здание</string>
+</resources>
